@@ -1,0 +1,6 @@
+link: https://chat-video-008.netlify.app/
+
+GitHub: https://github.com/Amogh008/Project_videoChat
+
+
+Remeber to run 'npm i' in the terminal on the project folder to install dependencies before testing the code on vs-code 
